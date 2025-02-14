@@ -1,5 +1,5 @@
 <h1 id="titulo-e-imagen-de-portada" align="center">
-<img src="https://github.com/PaolaBasualdo/manejo-del-dom-todo-list/blob/main/Captura%20de%20pantalla%202025-02-13%20222453.png" alt="Vista previa de la aplicación" width="400">
+<img src="https://github.com/PaolaBasualdo/manejo-del-dom-todo-list/blob/main/imagenes/2.png" alt="Vista previa de la aplicación" width="400">
 <br>
 ✅ Todo List: Gestión de Tareas Pendientes
 </h1>
@@ -7,10 +7,12 @@
 <h2 align="center">
 📌 Proyecto Web Interactivo: Lista de Tareas con Funcionalidad de Completar y Eliminar
 </h2>
+
 <p id="insignias" align="left">
 <img src="https://img.shields.io/badge/STATUS-TERMINADO-blue">
-<img src="https://img.shields.io/github/languages/top/tu-usuario/todo-list">
-<img src="https://img.shields.io/github/stars/tu-usuario/todo-list?style=social">
+<img src="https://img.shields.io/github/languages/top/PaolaBasualdo/manejo-del-dom-todo-list">
+<img src="https://img.shields.io/github/stars/PaolaBasualdo/manejo-del-dom-todo-list?style=social">
+<img src="https://img.shields.io/github/last-commit/PaolaBasualdo/manejo-del-dom-todo-list">
 </p>
 ---
 ## 📌 Índice
