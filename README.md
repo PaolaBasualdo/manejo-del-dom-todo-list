@@ -1,5 +1,5 @@
 <h1 id="titulo-e-imagen-de-portada" align="center">
-<img src="https://via.placeholder.com/800x400?text=Todo+List+Preview" alt="Vista previa de la aplicación">
+<img src="https://github.com/PaolaBasualdo/manejo-del-dom-todo-list/blob/main/Captura%20de%20pantalla%202025-02-13%20222453.png" alt="Vista previa de la aplicación">
 <br>
 ✅ Todo List: Gestión de Tareas Pendientes
 </h1>
