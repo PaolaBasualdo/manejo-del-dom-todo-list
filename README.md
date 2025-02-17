@@ -123,12 +123,17 @@ Para ejecutar este proyecto, necesitarás:
 ¡Las contribuciones son bienvenidas! 
 
 Si deseas mejorar este proyecto, sigue estos pasos:
+
 -Haz un fork del repositorio.
+
 -Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
+
 -Realiza tus cambios y haz commit (git commit -m "Añadir nueva funcionalidad").
+
 -Sube tus cambios (git push origin feature/nueva-funcionalidad).
+
 -Abre un Pull Request.
--
+
 
 ---
 
