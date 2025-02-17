@@ -102,8 +102,7 @@ Eliminar tarea
 Para ejecutar este proyecto, necesitarás:
 
 - Un navegador web moderno (Chrome, Firefox, Edge, etc.).
-
--Conocimientos básicos de HTML, CSS y JavaScript.
+- Conocimientos básicos de HTML, CSS y JavaScript.
 
 ---
 
@@ -111,7 +110,7 @@ Para ejecutar este proyecto, necesitarás:
 
 - 1.Clona el repositorio:
 
-git clone https://github.com/PaolaBasualdo/manejo-del-dom-todo-list.git
+  git clone https://github.com/PaolaBasualdo/manejo-del-dom-todo-list.git
 
 - 2.Abre el archivo index.html en tu navegador preferido.
   
