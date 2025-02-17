@@ -100,8 +100,10 @@ Eliminar tarea
 ## 🔧 Requisitos Previos
 
 Para ejecutar este proyecto, necesitarás:
-Un navegador web moderno (Chrome, Firefox, Edge, etc.).
-Conocimientos básicos de HTML, CSS y JavaScript.
+
+- Un navegador web moderno (Chrome, Firefox, Edge, etc.).
+
+-Conocimientos básicos de HTML, CSS y JavaScript.
 
 ---
 
@@ -118,25 +120,42 @@ git clone https://github.com/PaolaBasualdo/manejo-del-dom-todo-list.git
 --- 
 
 ## 🤝 Contribuciones
-¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, sigue estos pasos:
+¡Las contribuciones son bienvenidas! 
 
-Haz un fork del repositorio.
-Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
-Realiza tus cambios y haz commit (git commit -m "Añadir nueva funcionalidad").
-Sube tus cambios (git push origin feature/nueva-funcionalidad).
+Si deseas mejorar este proyecto, sigue estos pasos:
+
+-Haz un fork del repositorio.
+
+-Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
+
+-Realiza tus cambios y haz commit (git commit -m "Añadir nueva funcionalidad").
+
+-Sube tus cambios (git push origin feature/nueva-funcionalidad).
 Abre un Pull Request.
 
 ---
 
-## ⚠️ Problemas Conocidos
-Las tareas no persisten al recargar la página (se solucionará en futuras actualizaciones).
-La edición de tareas aún no está implementada.
+## ⚠️ Problemas Conocidos y Mejoras
+
+-La edición de tareas aún no está implementada: permitir al usuario editar una tarea existente sería una mejora interesante. Se podría agregar un ícono de edición (✏️) junto a cada tarea que, al hacer clic, convierta el texto en un campo de entrada editable.
+
+-Agregar animaciones sutiles puede mejorar la experiencia visual: animación al agregar una nueva tarea, animación al marcar una tarea como completada, nimación al eliminar una tarea.
+
+-Diseño Responsivo y Temas Oscuros/Claro: asegurase que la aplicación es completamente responsiva para dispositivos móviles. Agregar un botón para cambiar entre modo claro y oscuro. Esto es muy popular hoy en día y mejora la accesibilidad. 
+
+-Agregar Notificaciones o recordatorios.
+
+-Permitir al usuario asignar prioridades (alta, media, baja) a las tareas podría ser útil. 
+
+-Agrega un pequeño panel que muestre estadísticas: Total de tareas. Tareas completadas. Tareas pendientes.
 
 ---
 
 ## 🙏 Créditos
-Iconos proporcionados por Bootstrap Icons .
-Inspiración tomada de tutoriales de freeCodeCamp .
+
+-Iconos proporcionados por Bootstrap Icons .
+
+-Inspiración tomada de tutoriales de freeCodeCamp .
 
 ---
 
