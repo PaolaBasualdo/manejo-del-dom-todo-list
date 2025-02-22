@@ -87,13 +87,16 @@ Esta aplicación web permite a los usuarios gestionar sus tareas pendientes de m
 
 ### Agregar una tarea:
 
-![Agregar tarea](https://github.com/PaolaBasualdo/manejo-del-dom-todo-list/blob/main/imagenes/1.png)
+![Agregar tarea](https://github.com/PaolaBasualdo/manejo-del-dom-todo-list/blob/main/imagenes/4.png)
 
-Marcar como completada:
-Marcar como completada
+### Marcar como completada:
 
-Eliminar una tarea:
-Eliminar tarea
+![Agregar tarea](https://github.com/PaolaBasualdo/manejo-del-dom-todo-list/blob/main/imagenes/5.png)
+
+### Eliminar una tarea: 
+
+![Agregar tarea](https://github.com/PaolaBasualdo/manejo-del-dom-todo-list/blob/main/imagenes/6.png)
+
 
 ---
 
