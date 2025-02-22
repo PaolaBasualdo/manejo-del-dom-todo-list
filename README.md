@@ -95,7 +95,7 @@ Esta aplicación web permite a los usuarios gestionar sus tareas pendientes de m
 
 ### Eliminar una tarea: 
 
-![Agregar tarea](https://github.com/PaolaBasualdo/manejo-del-dom-todo-list/blob/main/imagenes/6.png)
+![Agregar tarea](https://github.com/PaolaBasualdo/manejo-del-dom-todo-list/blob/main/imagenes/7.png)
 
 
 ---
