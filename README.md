@@ -8,7 +8,7 @@
 📌 Proyecto Web Interactivo: Lista de Tareas con Funcionalidad de Completar y Eliminar
 </h2>
 
-<p id="insignias" align="left">
+<p id="insignias" align="center">
 <img src="https://img.shields.io/badge/STATUS-TERMINADO-blue">
 <img src="https://img.shields.io/github/languages/top/PaolaBasualdo/manejo-del-dom-todo-list">
 <img src="https://img.shields.io/github/stars/PaolaBasualdo/manejo-del-dom-todo-list?style=social">
